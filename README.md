@@ -13,7 +13,7 @@ Just. Keep. Learnin'.
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [1million Women to Tech](https://memberportal.1millionwomentotech.com/diy-login/index)
   - Summer of Code
-- Interaction Design Foundation (https://www.interaction-design.org/)
+- [Interaction Design Foundation](https://www.interaction-design.org/)
 - [Eduonix](https://www.eduonix.com/)
   - Full Stack Web Development
   - Projects in ExpressJS-Learn ExpressJs building 
