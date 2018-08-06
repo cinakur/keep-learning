@@ -1,7 +1,9 @@
 # keep-learning
 Just. Keep. Learnin'. 
 
-## Active Platforms + Courses
+## Active 
+
+### Platforms + Courses
 - [Udemy](https://www.udemy.com/)
   - PMP/PMBOK
 - [Udacity](https://udacity.com/)
@@ -25,9 +27,24 @@ Just. Keep. Learnin'.
 - teachable
   - [Flexbox Zombies](https://mastery.games/)
 
+### Books
+- Lean In
 
-## Completed Platforms + Courses
+## Completed 
+
+### Platforms + Courses
 - [WordSesh 2018](https://wordsesh.com/)
 
-## Wishlist Platforms + Courses
+### Books
+- Emotional Intelligence
+- Manage your Day-to-Day
+- How to Win Friends and Influence People
+- A List Apart: SASS
+- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+
+## Wishlist 
+
+### Platforms + Courses
 - Wes Boz
+
+### Books
