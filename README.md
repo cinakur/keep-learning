@@ -45,6 +45,6 @@ Just. Keep. Learnin'.
 ## Wishlist 
 
 ### Platforms + Courses
-- Wes Boz
+- [Wes Bos](https://wesbos.com/)
 
 ### Books
